@@ -2,4 +2,4 @@
 
 To get the game, visit https://lyeeedar.itch.io/ascend-from-nine-mountains
 
-Latest version: v0.4.17
+Latest version: v0.4.18
